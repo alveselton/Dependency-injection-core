@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaoInjeccaoDependencia", "ConsoleApp1\NaoInjeccaoDependencia.csproj", "{F98D745B-0371-44AA-9EEA-9B79DE4E7790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjeccaoDependencia", "InjeccaoDependencia\InjeccaoDependencia.csproj", "{BCA6D598-6129-4114-A0A4-149CAE68943A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98D745B-0371-44AA-9EEA-9B79DE4E7790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98D745B-0371-44AA-9EEA-9B79DE4E7790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98D745B-0371-44AA-9EEA-9B79DE4E7790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98D745B-0371-44AA-9EEA-9B79DE4E7790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA6D598-6129-4114-A0A4-149CAE68943A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA6D598-6129-4114-A0A4-149CAE68943A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA6D598-6129-4114-A0A4-149CAE68943A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA6D598-6129-4114-A0A4-149CAE68943A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77C0C1C2-D8C6-4D79-BCF6-9FBED17CEC3F}
+	EndGlobalSection
+EndGlobal
